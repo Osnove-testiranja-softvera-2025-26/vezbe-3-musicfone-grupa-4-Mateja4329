@@ -14,5 +14,5 @@ TEST 2:
 
 TEST 3:
 1. Does the "MusicFone Recommender – Get Recommendations" algorithm recommends exactly 20 authors?
-2. Check if the authors that are listed are the ones that the user follows.
+2. Check if the authors who are listed are the ones that the user follows.
 3. Are the authors from Last.Fm?
