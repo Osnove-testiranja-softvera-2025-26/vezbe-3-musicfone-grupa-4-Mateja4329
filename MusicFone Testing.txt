@@ -1,0 +1,18 @@
+MusicFone Testing
+
+Explanation: MusicFone is a music mobile app which supports mobile devices that can convert MP3 and support GPS. The app gives recommended songs and authors to the user which he likes to listen to by using his preferences data. The app can find upcoming songs or events which are connected to those authors using "Last.Fm" website. Functions allow the app to generate recommendations and travel planning for the given events of those authors.
+
+TEST 1:
+1. Checking if the music application can be used on mobile devices that support MP3 reproduction and GPS (e.g: Google PlayStore).
+2. If yes, then try to download and install it.
+3. If it's successful, then check if we can enter the application.
+
+TEST 2:
+1. Entering the application, checking if music can be reproduced and if the music GUI can be used.
+2. Try to listen to music.
+3. Check if the "MusicFOne Player - Now Playing" works.
+
+TEST 3:
+1. Does the "MusicFone Recommender – Get Recommendations" algorithm recommends exactly 20 authors?
+2. Check if the authors that are listed are the ones that the user follows.
+3. Are the authors from Last.Fm?
